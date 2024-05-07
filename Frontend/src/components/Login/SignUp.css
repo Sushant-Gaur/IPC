@@ -1,0 +1,45 @@
+.signup-page {
+  padding: 0.75rem;
+  max-width: 32rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.signup {
+  font-size: 1.875rem;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-form > * + * {
+  margin-top: 1rem; /* Adjust as needed */
+}
+
+.input-design {
+  border: 1px solid #000000; /* Adjust border color and width as needed */
+  padding: 0.75rem; /* Adjust padding as needed */
+  border-radius: 0.5rem; /* Adjust border radius as needed */
+}
+
+.btn-design {
+  background-color: #374151; /* Adjust background color as needed */
+  padding: 0.75rem; /* Adjust padding as needed */
+  color: #ffffff; /* Adjust text color as needed */
+  border-radius: 0.5rem; /* Adjust border radius as needed */
+  text-transform: uppercase; /* Convert text to uppercase */
+}
+
+.btn-design:hover {
+  opacity: 0.95; /* Adjust opacity on hover as needed */
+}
+
+.btn-design:disabled {
+  opacity: 0.8; /* Adjust opacity when disabled as needed */
+}

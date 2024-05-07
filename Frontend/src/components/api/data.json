@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "collegename": "Chandigarh University",
+    "email": "cu@cuchd.com",
+    "department": "mba",
+    "url": "https://www.cuchd.in/"
+  },
+  {
+    "id": 2,
+    "collegename": "Sharda University",
+    "email": "sharda@sharda.com",
+    "department": "mca",
+    "url": "https://www.sharda.ac.in/"
+  },
+  {
+    "id": 3,
+    "collegename": "Amity University",
+    "email": "amity@amity.com",
+    "department": "mca",
+    "url": "https://www.amity.edu/"
+  },
+  {
+    "id": 4,
+    "collegename": "Chitkara University",
+    "email": "chitkaraa@chitkara.com",
+    "department": "mba",
+    "url": "https://www.chitkara.edu.in/"
+  }
+]
